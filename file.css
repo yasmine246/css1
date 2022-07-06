@@ -1,0 +1,46 @@
+body{
+    background-image: url(./css4.jpg);
+    text-align: center;
+}
+nav{
+    background-color: azure;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 80px;
+    padding-top: 50px;
+    box-shadow: 50px white
+
+
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: pink;
+    margin-left: 80px;
+
+}
+#contact-me{
+    margin-left:200px;
+}
+main{
+    margin-top:200px;
+}
+#profile-image{
+    border-radius: 50%;
+
+}
+ul{
+    list-style: none;
+}
+.section-work{
+    background-color: white ;
+     width: 600px; 
+     margin: auto;
+     border-radius: 10px;
+}
+.section-work:hover{
+    cursor: pointer;
+    background-color: beige;
+}
